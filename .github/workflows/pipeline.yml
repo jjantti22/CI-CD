@@ -38,7 +38,7 @@ jobs:
           webhook: ${{ secrets.DISCORD_WEBHOOK }}
           status: Success
           title: New version deployed
-            description: | 
+          description: | 
             commit: ${{ github.sha }}
             Author: ${{ github.actor }}
             Job: ${{ github.job }}
