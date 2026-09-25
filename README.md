@@ -2,6 +2,10 @@
 
 Link to deployed app: https://ci-cd-qyug.onrender.com/
 
+The other repository for exercise 21 onward: https://github.com/jjantti22/CI-CD_Repository2
+
+& link to the deployed app for the other repository: https://ci-cd-repository2.onrender.com/
+
 This repository is used for the CI/CD module of the Full Stack Open course
 
 ## Commands
